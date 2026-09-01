@@ -1,0 +1,24 @@
+# Evidence
+
+> Generated from `features/*.md`. Source industry: `03_sports_health`, 15 features.
+> Do not edit by hand; regenerate it in the review repository.
+
+Every claim in this skill traces back to one HQ document and one sample project. The local paths below are provenance, not files you need: the cards carry the verified code inline. Each document links to the page it was crawled from. Sample projects live under `huawei_industry_tree/<industry>/downloads/` in the review repository and are only needed to audit a claim.
+
+| ID | Source document | Sample project | Findings |
+|---|---|---|---|
+| `SPORT-01` | [`huawei_industry_tree/03_sports_health/docs/01_practice-sports-health-app-architecture-v1.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-sports-health-app-architecture-v1-0000001952522073) | `SportsHealth_Framework_Code_V1.zip` | HW-03-0001, HW-03-0002, HW-03-0003, HW-03-0004, HW-03-0005, HW-03-0006, HW-03-0007, HW-03-0008, HW-03-0009, HW-03-0010, HW-03-0011, HW-03-0012, HW-03-0013, HW-03-0055 |
+| `SPORT-02` | [`huawei_industry_tree/03_sports_health/docs/02_practice-sports-health-app-architecture-v1_1.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-sports-health-app-architecture-v1_1-0000002232088872) | `NO ZIP` | - |
+| `SPORT-03` | [`huawei_industry_tree/03_sports_health/docs/03_indoor_run.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/indoor_run-0000002266807001) | `IndoorRun.zip` | HW-03-0014, HW-03-0015, HW-03-0016, HW-03-0017, HW-03-0055 |
+| `SPORT-04` | [`huawei_industry_tree/03_sports_health/docs/04_calendar_schedule_events.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/calendar_schedule_events-0000002274539357) | `CalendarScheduleEvents.zip` | HW-03-0018, HW-03-0019, HW-03-0020, HW-03-0021, HW-03-0022, HW-03-0055 |
+| `SPORT-05` | [`huawei_industry_tree/03_sports_health/docs/05_period_chart.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/period_chart-0000002280744357) | `PeriodChart.zip` | HW-03-0023, HW-03-0024, HW-03-0025, HW-03-0054, HW-03-0055 |
+| `SPORT-06` | [`huawei_industry_tree/03_sports_health/docs/06_match_scorer.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/match_scorer-0000002329513545) | `MatchScorer.zip` | HW-03-0026, HW-03-0027, HW-03-0028, HW-03-0055 |
+| `SPORT-07` | [`huawei_industry_tree/03_sports_health/docs/07_sport_three_ring.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/sport_three_ring-0000002345359673) | `SportThreeRing.zip` | HW-03-0029, HW-03-0030, HW-03-0031, HW-03-0055 |
+| `SPORT-08` | [`huawei_industry_tree/03_sports_health/docs/08_max_display_of_routes.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/max_display_of_routes-0000002335684832) | `MaxDisplayOfRoutes.zip` | HW-03-0032, HW-03-0033, HW-03-0034, HW-03-0035, HW-03-0055 |
+| `SPORT-09` | [`huawei_industry_tree/03_sports_health/docs/09_outdoor_sports.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/outdoor_sports-0000002337059970) | `OutdoorSports.zip` | HW-03-0036, HW-03-0037, HW-03-0038, HW-03-0055 |
+| `SPORT-10` | [`huawei_industry_tree/03_sports_health/docs/10_tournament_advancement_chart.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/tournament_advancement_chart-0000002381782357) | `KnockoutMatchList.zip` | HW-03-0039, HW-03-0040, HW-03-0041, HW-03-0055 |
+| `SPORT-11` | [`huawei_industry_tree/03_sports_health/docs/11_motion_trajectory.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/motion_trajectory-0000002351150394) | `MotionTrajectory.zip` | HW-03-0042, HW-03-0043, HW-03-0044, HW-03-0045, HW-03-0055 |
+| `SPORT-12` | [`huawei_industry_tree/03_sports_health/docs/12_countdown_to_run.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/countdown_to_run-0000002394156713) | `CountdownToRun.zip` | HW-03-0046, HW-03-0047, HW-03-0048, HW-03-0055 |
+| `SPORT-13` | [`huawei_industry_tree/03_sports_health/docs/13_custom_exercise_dashboard.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/custom_exercise_dashboard-0000002361577984) | `CustomExerciseDashboard.zip` | HW-03-0049, HW-03-0050, HW-03-0055 |
+| `SPORT-14` | [`huawei_industry_tree/03_sports_health/docs/14_scan_to_add_medication.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/scan_to_add_medication-0000002396859981) | `ScanToAddMedication.zip` | HW-03-0051, HW-03-0052, HW-03-0053, HW-03-0055 |
+| `SPORT-15` | [`huawei_industry_tree/03_sports_health/docs/15_practice-sports-health-app-architecture-v1_2.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-sports-health-app-architecture-v1_2-0000002307975325) | `NO ZIP` | - |

@@ -1,0 +1,30 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.1.1(24)",
+        "runtimeOS": "HarmonyOS",
+        "targetSdkVersion": "6.1.1(24)"
+      }
+    ],
+    "buildModeSet": [
+      { "name": "debug" },
+      { "name": "release" }
+    ]
+  },
+  // Every module is registered here. Only the entry HAP applies to a product.
+  "modules": [
+    {
+      "name": "phone",
+      "srcPath": "./product/phone",
+      "targets": [
+        { "name": "default", "applyToProducts": ["default"] }
+      ]
+    },
+    { "name": "example", "srcPath": "./features/example" },
+    { "name": "common", "srcPath": "./common" }
+  ]
+}

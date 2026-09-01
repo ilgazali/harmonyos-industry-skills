@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Basic feature tier: one self-contained feature.",
+  "main": "Index.ets",
+  "license": "Apache-2.0",
+  // Features may depend on common, never on another feature or on the product.
+  "dependencies": {
+    "@ohos/common": "file:../../common"
+  }
+}

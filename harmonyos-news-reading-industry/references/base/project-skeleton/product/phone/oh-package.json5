@@ -1,0 +1,10 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Product customisation tier: the entry HAP.",
+  "main": "",
+  "dependencies": {
+    "@ohos/common": "file:../../common",
+    "@ohos/example": "file:../../features/example"
+  }
+}

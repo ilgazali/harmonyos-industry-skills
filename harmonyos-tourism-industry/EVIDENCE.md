@@ -1,0 +1,22 @@
+# Evidence
+
+> Generated from `features/*.md`. Source industry: `09_tourism`, 13 features.
+> Do not edit by hand; regenerate it in the review repository.
+
+Every claim in this skill traces back to one HQ document and one sample project. The local paths below are provenance, not files you need: the cards carry the verified code inline. Each document links to the page it was crawled from. Sample projects live under `huawei_industry_tree/<industry>/downloads/` in the review repository and are only needed to audit a claim.
+
+| ID | Source document | Sample project | Findings |
+|---|---|---|---|
+| `TOUR-01` | [`huawei_industry_tree/09_tourism/docs/01_practice-tourist-park-app-architecture-v1.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-tourist-park-app-architecture-v1-0000001965211653) | `TouristParkDemo.zip` | HW-09-0001, HW-09-0002, HW-09-0003, HW-09-0004, HW-09-0005, HW-09-0006, HW-09-0007, HW-09-0008, HW-09-0009, HW-09-0010, HW-09-0011, HW-09-0012, HW-09-0013, HW-09-0014, HW-09-0015, HW-09-0079 |
+| `TOUR-02` | [`huawei_industry_tree/09_tourism/docs/02_practice-tourist-park-app-architecture-v1_1.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-tourist-park-app-architecture-v1_1-0000002270258501) | `NO ZIP` | - |
+| `TOUR-03` | [`huawei_industry_tree/09_tourism/docs/03_location_permission_prompt.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/location_permission_prompt-0000002235220070) | `LocationPermissionPrompt.zip` | HW-09-0016, HW-09-0017, HW-09-0018, HW-09-0019, HW-09-0020, HW-09-0021, HW-09-0080 |
+| `TOUR-04` | [`huawei_industry_tree/09_tourism/docs/04_data_selection.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/data_selection-0000002240198078) | `DateSelection.zip` | HW-09-0022, HW-09-0023, HW-09-0024, HW-09-0025, HW-09-0026, HW-09-0027, HW-09-0080 |
+| `TOUR-05` | [`huawei_industry_tree/09_tourism/docs/05_address_exchange.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/address_exchange-0000002283895117) | `AddressExchange.zip` | HW-09-0028, HW-09-0029, HW-09-0030, HW-09-0031, HW-09-0032, HW-09-0033, HW-09-0080 |
+| `TOUR-06` | [`huawei_industry_tree/09_tourism/docs/06_obtain_destination_map.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/obtain_destination_map-0000002318736725) | `DestinationMap.zip` | HW-09-0034, HW-09-0035, HW-09-0036, HW-09-0037, HW-09-0038, HW-09-0039, HW-09-0040, HW-09-0080 |
+| `TOUR-07` | [`huawei_industry_tree/09_tourism/docs/07_map_marker.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/map_marker-0000002332603737) | `MapMarker.zip` | HW-09-0041, HW-09-0042, HW-09-0043, HW-09-0044, HW-09-0045, HW-09-0046 |
+| `TOUR-08` | [`huawei_industry_tree/09_tourism/docs/08_hotel_check_in_review.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/hotel_check_in_review-0000002364291253) | `UserReview.zip` | HW-09-0047, HW-09-0048, HW-09-0049, HW-09-0050, HW-09-0051, HW-09-0080 |
+| `TOUR-09` | [`huawei_industry_tree/09_tourism/docs/09_attraction_talk_sample.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/attraction_talk_sample-0000002335049696) | `景点语音讲解示例代码.zip` | HW-09-0052, HW-09-0053, HW-09-0054, HW-09-0055, HW-09-0056, HW-09-0057, HW-09-0058, HW-09-0059, HW-09-0080 |
+| `TOUR-10` | [`huawei_industry_tree/09_tourism/docs/10_travel_checkin_order.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/travel_checkin_order-0000002386506221) | `TravelCheckinOrder.zip` | HW-09-0060, HW-09-0061, HW-09-0062, HW-09-0063, HW-09-0064, HW-09-0065, HW-09-0080 |
+| `TOUR-11` | [`huawei_industry_tree/09_tourism/docs/11_check_information.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/check_information-0000002360422162) | `CheckInformation.zip` | HW-09-0066, HW-09-0067, HW-09-0068, HW-09-0069, HW-09-0070, HW-09-0071, HW-09-0080 |
+| `TOUR-12` | [`huawei_industry_tree/09_tourism/docs/12_add_and_collect_map_marker.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/add_and_collect_map_marker-0000002402495269) | `AddAndCollectMapMarker.zip` | HW-09-0072, HW-09-0073, HW-09-0074, HW-09-0075, HW-09-0076, HW-09-0077, HW-09-0078, HW-09-0080 |
+| `TOUR-13` | [`huawei_industry_tree/09_tourism/docs/13_practice-tourist-park-app-architecture-v1_2.md`](https://developer.huawei.com/consumer/cn/doc/architecture-guides/practice-tourist-park-app-architecture-v1_2-0000002359070945) | `NO ZIP` | - |

@@ -1,0 +1,9 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Common capability tier: UI components, utilities, network, storage.",
+  "main": "Index.ets",
+  "license": "Apache-2.0",
+  // A leaf. The common tier depends on nothing above it.
+  "dependencies": {}
+}
